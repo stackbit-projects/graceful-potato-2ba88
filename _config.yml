@@ -1,0 +1,12 @@
+title: Jekyll Bootstrap Theme
+path: /jekyll-bootstrap-theme
+url: ''
+markdown: kramdown
+sass:
+  sass_dir: css
+  style: expanded
+exclude:
+  - README.md
+safe: true
+lsi: false
+baseurl: ''
